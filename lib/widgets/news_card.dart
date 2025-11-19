@@ -88,4 +88,4 @@ class ItemCard extends StatelessWidget {
   }
 }
 
-// A sample comment
+// A sample commented
